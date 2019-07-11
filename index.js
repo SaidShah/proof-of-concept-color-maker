@@ -53,7 +53,4 @@ window.addEventListener("DOMContentLoaded",(e)=>{
             document.getElementById('innerText').style.fontWeight = "bold"
         }
     })
-
-
-    
 })
